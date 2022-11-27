@@ -2,7 +2,7 @@
 alt="Waving hand animated gif"
 height="45"
 width="45" /> I'm Rajeev Vhanhuve</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevvhanhuve&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="HimGos" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevvhanhuve&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="rajeevvhanhuve" /> </p>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="gif">
  
 - 💼 I work at Tata Technologies as a Design Engineer in Engineering, Research & Development.
