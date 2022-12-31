@@ -6,7 +6,7 @@ width="45" /> I'm Rajeev Vhanhuve</h1>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="gif">
  
 - 💼 I work at Tata Technologies as a Design Engineer in Engineering, Research & Development.
-- 🌱 I'm also pursuing the Data Science program at Simplilearn
+- 🌱 I'm also pursuing the Data Science program at Simplilearn.
 - 🔭 I’m currently building Machine Learning Project.
 
 ## 
