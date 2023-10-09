@@ -5,9 +5,9 @@ width="45" /> I'm Rajeev Vhanhuve</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevvhanhuve&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="rajeevvhanhuve" /> </p>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="gif">
  
-- 💼 I work at Tata Technologies as a Design Engineer in Engineering, Research & Development.
-- 🌱 I'm also pursuing the Data Science program at Simplilearn.
-- 🔭 I’m currently building Machine Learning Project.
+- 💼 I work at Tao as a Machine Learning Engineer in Research & Development.
+- 🌱 I'm also pursuing the Data Science program from Coursera.
+- 🔭 I’m currently building AI based Threat Intelligence application.
 
 ## 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeevvhanhuve/) [![Twitter](https://img.shields.io/twitter/follow/rajeevvhanhuve?logo=Twitter&style=for-the-badge)](https://twitter.com/rajeevvhanhuve) [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facrbook.com/rajeevvhanhuve/)
