@@ -3,7 +3,7 @@ alt="Waving hand animated gif"
 height="45"
 width="45" /> I'm Rajeev Vhanhuve</h1>
  
-- 💼 I work as a Senior Data Scientist in Research & Development.
+- 💼 I work as a Senior AI/ML Engineer in Research & Development.
 - 🌱 I'm also pursuing the Generative AI with Large Language Models program from Coursera.
 - 🔭 I’m currently building AI based Threat Intelligence application.
 
