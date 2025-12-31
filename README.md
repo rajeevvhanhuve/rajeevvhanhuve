@@ -3,9 +3,9 @@ alt="Waving hand animated gif"
 height="45"
 width="45" /> I'm Rajeev Vhanhuve</h1>
  
-- 💼 I work as a Senior AI/ML Engineer in Research & Development.
-- 🌱 I'm also pursuing the Generative AI with Large Language Models program from Coursera.
-- 🔭 I’m currently building AI based Threat Intelligence application.
+- 💼 I work as a Senior Generative AI Engineer in the BFSI sector.
+- 🌱  I am currently pursuing the Agentic AI with Large Language Models programme on Coursera.
+- 🔭 I am developing the Governing Document Assistant and AI Author application for a European bank.
 
 ## 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeevvhanhuve/) [![Twitter](https://img.shields.io/twitter/follow/rajeevvhanhuve?logo=Twitter&style=for-the-badge)](https://twitter.com/rajeevvhanhuve) [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facrbook.com/rajeevvhanhuve/)
